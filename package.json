@@ -1,0 +1,21 @@
+{
+  "name": "p003",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.3.1"
+  },
+  "dependencies": {
+    "chart.js": "^4.4.3",
+    "datatables.net-dt": "^2.0.8",
+    "datatables.net-responsive-dt": "^3.0.2",
+    "gsap": "^3.12.5",
+    "jquery": "^3.7.1"
+  }
+}
